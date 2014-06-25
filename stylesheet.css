@@ -1,0 +1,55 @@
+
+body{font-family: garamond, verdana, Arial;}
+
+.container{
+margin-right: auto;
+margin-left: auto;
+padding-bottom: 2%;
+padding-top: 2%;
+border-radius: 2px;
+width: 48%;
+background-color: #d927eb;
+color: white;}
+
+p{
+margin-bottom: 1px;
+margin-top: -6px;
+font-size: 36px;
+text-align: center;}
+
+.entry{
+margin-left: 1.5%;
+padding-left: 4px;
+border: 1px solid #0079ff;
+border-radius: 3px;
+background-color: #f2e9ff;
+font-size: 10px;
+font-family: garamond, verdana, Arial;}
+
+.entry:hover{
+border: 1.2px solid #4ca1ff;}
+
+.submit{
+font-size:10px;
+font-family: garamond, verdana, Arial;}
+
+.submit:hover{
+box-shadow: 1px 1px 1px #888888;}
+
+#append{
+margin-left: 1.5%;
+font-size: 20px;}
+
+.box{
+background-color: white;
+margin-right: 5%;
+margin-left: 5%;
+text-align: center;
+border-radius: 5px;
+color: black;
+padding-top: 1%;
+padding-bottom: 1%;
+box-shadow: 2px 2px 2px white;}
+
+.lineThrough{
+text-decoration: line-through;}
