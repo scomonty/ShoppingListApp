@@ -46,8 +46,8 @@ $(document).ready(function(){
   });
     $('.click').click (function(){
       $('.ins p').toggle('slow');
-      $('.click').text("hide instructions");
     })
+
     $('.click').on({
       mouseover:function(){
           $('.click').addClass('hover');
