@@ -53,3 +53,25 @@ box-shadow: 2px 2px 2px white;}
 
 .lineThrough{
 text-decoration: line-through;}
+
+.ins{margin-right:auto;
+margin-left: auto;
+text-align: center;}
+
+.ins p{display: none;
+text-align: center;
+font-size: 15px;
+margin-right: auto;
+margin-left: auto;
+padding-top: 5px;
+}
+
+.click{border: transparent;
+background-color: transparent;
+color: white;
+margin-right: auto;
+margin-left: auto;}
+
+button:focus{outline: 0;}
+
+.hover{cursor: pointer;}
